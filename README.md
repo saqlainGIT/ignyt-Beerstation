@@ -1,4 +1,5 @@
-A Complete Responsive Restaurant Website Using ReactJs 
+A Complete Responsive Bar website using React JS
+
 
 Home Page :
 
