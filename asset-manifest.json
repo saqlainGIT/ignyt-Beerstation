@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ignyt-Beerstation/static/css/main.49dda0cd.css",
+    "main.js": "/ignyt-Beerstation/static/js/main.6000ed21.js",
+    "static/media/myteam.jpg": "/ignyt-Beerstation/static/media/myteam.9384d92fd08da3f68cb9.jpg",
+    "static/media/lunch2.jpg": "/ignyt-Beerstation/static/media/lunch2.07e747480abb902c4705.jpg",
+    "static/media/dinner1.jpg": "/ignyt-Beerstation/static/media/dinner1.7872f42befadbe33ec21.jpg",
+    "static/media/dinner.jpg": "/ignyt-Beerstation/static/media/dinner.21fb72101019f07f755b.jpg",
+    "static/media/image_6.jpg": "/ignyt-Beerstation/static/media/image_6.0ed4509ba178e95bf29a.jpg",
+    "static/media/ff.jpg": "/ignyt-Beerstation/static/media/ff.02560acf84f4092d4b40.jpg",
+    "static/media/2.jpg": "/ignyt-Beerstation/static/media/2.c476650158ff1c0b1e55.jpg",
+    "static/media/drink.jpg": "/ignyt-Beerstation/static/media/drink.2cf435758d5b8541ba6e.jpg",
+    "static/media/1.jpg": "/ignyt-Beerstation/static/media/1.8dab65ffa340883ae5e0.jpg",
+    "static/media/gallery1.jpg": "/ignyt-Beerstation/static/media/gallery1.9a913d5eb9b44fe5b247.jpg",
+    "static/media/icecreame.jpg": "/ignyt-Beerstation/static/media/icecreame.6d7be7cf0aac00b0c24d.jpg",
+    "static/media/beer.jpg": "/ignyt-Beerstation/static/media/beer.1cb4dbd5f9da257f54a0.jpg",
+    "static/media/fastfood.jpg": "/ignyt-Beerstation/static/media/fastfood.a361f7640d973d8c8579.jpg",
+    "static/media/3.jpg": "/ignyt-Beerstation/static/media/3.30ff24ae18a426232df0.jpg",
+    "static/media/ice2.png": "/ignyt-Beerstation/static/media/ice2.8983a6aca2760a0056ea.png",
+    "static/media/fb.png": "/ignyt-Beerstation/static/media/fb.a565a4fe31747af49487.png",
+    "static/media/ins1.jpg": "/ignyt-Beerstation/static/media/ins1.cbd5990ab86b462e500e.jpg",
+    "static/media/party1.svg": "/ignyt-Beerstation/static/media/party1.caa5fbe05ecf0ca30cd3a007af077f83.svg",
+    "static/media/restaurant4.svg": "/ignyt-Beerstation/static/media/restaurant4.8cd45cdd58895def58492c57d4760741.svg",
+    "static/media/restaurant1.svg": "/ignyt-Beerstation/static/media/restaurant1.682a647e92dbd65793d7ba4f196cbc04.svg",
+    "index.html": "/ignyt-Beerstation/index.html",
+    "main.49dda0cd.css.map": "/ignyt-Beerstation/static/css/main.49dda0cd.css.map",
+    "main.6000ed21.js.map": "/ignyt-Beerstation/static/js/main.6000ed21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49dda0cd.css",
+    "static/js/main.6000ed21.js"
+  ]
+}
